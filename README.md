@@ -1,4 +1,4 @@
-<h1 align="center">Samuel Ribeiro 🚀</h1>
+<h1 align="center">Samuel Ribeiro</h1>
 <h3 align="center">frontend dev actually becoming proficient in my stack.</h3>
 
  🌐 currently learning **JavaScript and [Java/Flutter coming soon]**
