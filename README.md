@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Samuel Ribeiro</h1>
 <h3 align="center">frontend dev actually becoming proficient in my stack.</h3>
 
