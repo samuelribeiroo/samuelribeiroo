@@ -4,6 +4,8 @@
  As a software developer, I always prioritize bringing value beyond just writing code. With a solid foundation in web development, my primary goal is to add value to companys by helping building valuable solutions that meet their needs.
 
 In my vision in software development industry languages are just simply tools. I am always open to connecting with others knowledge fields and learning about new technologies.
+
+Things that I have interested: SRE, DevOps, Cloud Platforms (AWS, GCP, AZURE), Android Development (Kotlin, Java, React Native), UI/UX
  </p>
 
  
