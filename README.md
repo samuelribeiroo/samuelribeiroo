@@ -5,6 +5,8 @@
 
 In my vision in software development industry languages are just simply tools. I am always open to connecting with others knowledge fields and learning about new technologies.
 
+About it soft skills my thoughts are: I always will do this with a software developer's mindset: analyzing the task carefully, breaking a big problem in smaller ones, looking for ways to optimize the result, and so on.
+
 Things that I have interested: SRE, DevOps, Cloud Platforms (AWS, GCP, AZURE), Android Development (Kotlin, Java, React Native), UI/UX
  </p>
 
