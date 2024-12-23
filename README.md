@@ -7,7 +7,7 @@ My approach to every challenges it's use a efficient software developer mentalit
 
 In my vision in software development industry languages are just simply tools. I am always open to connecting with others knowledge fields and learning about new technologies.
 
-Things that I have interested: SRE, DevOps, Cloud Platforms (AWS, GCP, AZURE), Android Development (Kotlin, Java, React Native), UI/UX
+Things that I have interested: SRE, DevOps, Cloud Platforms (AWS, GCP, AZURE), Android Development (Kotlin, Java, React Native), UI/UX, Front-End Development
  </p>
 
  
